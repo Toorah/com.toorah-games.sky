@@ -1,0 +1,16 @@
+{
+    "name": "Toorah.Sky",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3b693b162193a7c42a5256d65210bcd2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

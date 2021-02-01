@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6eb0a5a0392a1b46acd8439bd34d1de, type: 3}
+  m_Name: Sun Color
+  m_EditorClassIdentifier: 
+  m_default:
+    serializedVersion: 2
+    key0: {r: 0, g: 0, b: 0, a: 1}
+    key1: {r: 1.1486983, g: 0.80794203, b: 0.52265775, a: 1}
+    key2: {r: 1, g: 0.94592327, b: 0.8141227, a: 0}
+    key3: {r: 1, g: 0.9778565, b: 0.8742138, a: 0}
+    key4: {r: 0.9924985, g: 0.92156297, b: 0.8133053, a: 0}
+    key5: {r: 1.4741087, g: 0.439855, b: 0.17831959, a: 0}
+    key6: {r: 1.5676355, g: 0.180188, b: 0.41443238, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 15806
+    ctime2: 21203
+    ctime3: 32768
+    ctime4: 44718
+    ctime5: 53392
+    ctime6: 55705
+    ctime7: 59560
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 8
+    m_NumAlphaKeys: 2
+  m_value:
+    serializedVersion: 2
+    key0: {r: 0, g: 0, b: 0, a: 1}
+    key1: {r: 1.1486983, g: 0.80794203, b: 0.52265775, a: 1}
+    key2: {r: 1, g: 0.94592327, b: 0.8141227, a: 0}
+    key3: {r: 1, g: 0.9778565, b: 0.8742138, a: 0}
+    key4: {r: 0.9924985, g: 0.92156297, b: 0.8133053, a: 0}
+    key5: {r: 1.4741087, g: 0.439855, b: 0.17831959, a: 0}
+    key6: {r: 1.5676355, g: 0.180188, b: 0.41443238, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 15806
+    ctime2: 21203
+    ctime3: 32768
+    ctime4: 44718
+    ctime5: 53392
+    ctime6: 55705
+    ctime7: 59560
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 8
+    m_NumAlphaKeys: 2
+  OnValueChanged:
+    m_PersistentCalls:
+      m_Calls: []

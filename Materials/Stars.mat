@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stars
+  m_Shader: {fileID: 4800000, guid: 51ae3d4c276d5934c90edd8ebc9fd3d6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _AngleOffset: 166.23
+    - _Density: 1.1
+    - _Float1: 2.6
+    - _Frequency: 105.57
+    - _Gain: 4.99
+    - _Jitter: 0.997
+    - _Lacunarity: 2.21
+    - _Octaves: 1
+    - _Offset_X: 0
+    - _Offset_Y: 0
+    - _Pow: 7.15
+    - _Seed: 0
+    - _Tiling_X: 1
+    - _Tiling_Y: 1
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 0.745283, g: 0.5882579, b: 0.5882579, a: 1}
+    - _Vector0: {r: 0.5, g: 2.7, b: 0, a: 0}
+  m_BuildTextureStacks: []
