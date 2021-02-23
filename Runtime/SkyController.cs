@@ -12,7 +12,7 @@ public class SkyController : MonoBehaviour
     //[GradientUsage(true, ColorSpace.Linear)]
     //public Gradient sunColor;
 
-    public GradientVariable sunColor;ffff
+    public GradientVariable sunColor;
 
     [Range(0, 1)]
     public float sunSize = 0.15f;
